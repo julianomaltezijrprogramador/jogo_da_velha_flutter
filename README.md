@@ -24,6 +24,21 @@ O objetivo deste projeto é demonstrar de forma clara e com código comentado os
 
 ---
 
+## prints
+Tela inicial
+![tela_inicial](https://github.com/user-attachments/assets/72509666-5f38-4574-935c-5ccef2e93cfb)
+
+Tela de jogo
+![tela_de_jogo](https://github.com/user-attachments/assets/934c24e2-4a53-487a-b800-08ee07c5f15c)
+
+Tela de jogo quando tem vencedor
+![tela_jogo_quando_tem_vencedor](https://github.com/user-attachments/assets/4451de4b-8f44-4a16-877e-335399a91cf0)
+
+Tela de jogo quando empate
+![tela_jogo_quando_empate](https://github.com/user-attachments/assets/d77b4423-2dc9-4889-a21e-0415ab50f72f)
+
+---
+
 ## Pré-requisitos
 
 -   Flutter instalado em sua máquina.
@@ -83,6 +98,7 @@ Este é um projeto de aprendizado, mas que pode ser expandido. Algumas ideias:
 -   Adicionar sons para as jogadas e para o final da partida.
 -   Criar um modo de jogo para dois jogadores no mesmo dispositivo.
 -   Salvar o placar e as estatísticas do jogador mesmo após fechar o aplicativo (usando `shared_preferences`).
+-   criar um multiplayer entre aplicativos(online).
 
 ---
 
