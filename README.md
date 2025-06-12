@@ -36,7 +36,7 @@ O objetivo deste projeto é demonstrar de forma clara e com código comentado os
 
 1.  **Clone o repositório:**
     ```sh
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/julianomaltezijrprogramador/jogo_da_velha_flutter.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
